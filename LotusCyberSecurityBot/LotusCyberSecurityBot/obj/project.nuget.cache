@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/iZF40/M/i4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\LotusCyberSecurityBot\\LotusCyberSecurityBot\\LotusCyberSecurityBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\system.speech\\10.0.8\\system.speech.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

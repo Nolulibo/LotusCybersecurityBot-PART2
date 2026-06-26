@@ -1,0 +1,35 @@
+[13:01] Bot: Welcome to Lotus Cybersecurity Awareness Bot. Please enter your name to begin.
+[13:04] You: Hello my name is Lili
+[13:04] Bot: Nice to meet you hello my name is lili. What cybersecurity topic are you interested in?
+[13:05] You: Passwords
+[13:05] Bot: Hello hello my name is lili, Since you seem interested in password, this topic may also help improve your cybersecurity awareness. A secure password helps prevent brute-force attacks from hackers.
+[13:06] You: Tell me more
+[13:06] Bot: Here is more about password: It is an important cybersecurity concept to understand.
+[19:24] Bot: Welcome to Lotus Cybersecurity Awareness Bot. Please enter your name to begin.
+[19:25] You: Lili
+[19:25] Bot: Nice to meet you lili. What cybersecurity topic are you interested in?
+[19:25] You: Malware
+[19:25] Bot: Hello lili, Since you seem interested in malware, this topic may also help improve your cybersecurity awareness. Avoid downloading files from unknown sources to stay safe.
+[19:26] You: Sounds interesting, tell me more
+[19:26] Bot: Here is more about malware: It is an important cybersecurity concept to understand.
+[19:26] You: What is it exactly?
+[19:26] Bot: I am not fully sure, but I can help you with topics like passwords, phishing, and malware.
+[19:27] You: What is malware?
+[19:27] Bot: Hello lili, Since you seem interested in malware, this topic may also help improve your cybersecurity awareness. That is a great question — learning this is very important. Avoid downloading files from unknown sources to stay safe.
+[20:15] Bot: Welcome to Lotus Cybersecurity Awareness Bot. Please enter your name to begin.
+[20:24] You: My name is Lili
+[20:24] Bot: Nice to meet you lili. What cybersecurity topic are you interested in?
+[20:24] You: I like Malware
+[20:24] Bot: Hello lili. As someone interested in malware, Avoid downloading files from unknown websites.
+[20:24] You: Tell more more
+[20:24] Bot: I am not sure I understand. Could you rephrase your cybersecurity question?
+[20:24] You: Tell me more
+[20:24] Bot: Some malware can secretly monitor your activity and steal sensitive information.
+[20:25] You: How do they do that
+[20:25] Bot: I am not sure I understand. Could you rephrase your cybersecurity question?
+[22:40] Bot: Welcome to Lotus Cybersecurity Awareness Bot. Please enter your name to begin.
+[22:50] Bot: Welcome to Lotus Cybersecurity Awareness Bot. Please enter your name to begin.
+[23:01] Bot: Welcome to Lotus Cybersecurity Awareness Bot. Please enter your name to begin.
+[23:20] Bot: Welcome to Lotus Cybersecurity Awareness Bot. Please enter your name to begin.
+[23:40] Bot: Welcome to Lotus Cybersecurity Awareness Bot. Please enter your name to begin.
+[23:41] Bot: Welcome to Lotus Cybersecurity Awareness Bot. Please enter your name to begin.
