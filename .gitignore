@@ -1,0 +1,20 @@
+## Build folders
+bin/
+obj/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## NuGet packages
+packages/
+
+## Test results
+TestResults/
+
+## Temporary files
+*.tmp
+*.temp
